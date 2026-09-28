@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel Fraud Detection Console",
+  "description": "Real-time transaction risk scoring, n8n webhook analysis, and fraud operations intelligence dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
